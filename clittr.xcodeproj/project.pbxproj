@@ -8,6 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		0476255C1D34ABC800C3EF6D /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0476255B1D34ABC800C3EF6D /* GoogleService-Info.plist */; };
+		0476255E1D3566DA00C3EF6D /* UIFeedViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0476255D1D3566DA00C3EF6D /* UIFeedViewCell.swift */; };
+		047625681D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0476255F1D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Black.otf */; };
+		047625691D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 047625601D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Bold.otf */; };
+		0476256C1D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Extrabold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 047625631D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Extrabold.otf */; };
+		0476256D1D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 047625641D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Light.otf */; };
+		0476256E1D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 047625651D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Regular.otf */; };
+		0476256F1D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 047625661D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Black.otf */; };
+		047625701D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 047625671D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Bold.otf */; };
 		049F70671D335DDB007BD6A7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049F70661D335DDB007BD6A7 /* AppDelegate.swift */; };
 		049F70691D335DDB007BD6A7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049F70681D335DDB007BD6A7 /* ViewController.swift */; };
 		049F706C1D335DDB007BD6A7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 049F706A1D335DDB007BD6A7 /* Main.storyboard */; };
@@ -37,6 +45,14 @@
 
 /* Begin PBXFileReference section */
 		0476255B1D34ABC800C3EF6D /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		0476255D1D3566DA00C3EF6D /* UIFeedViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIFeedViewCell.swift; sourceTree = "<group>"; };
+		0476255F1D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Alt Black.otf"; sourceTree = "<group>"; };
+		047625601D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Alt Bold.otf"; sourceTree = "<group>"; };
+		047625631D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Extrabold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Alt Extrabold.otf"; sourceTree = "<group>"; };
+		047625641D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Alt Light.otf"; sourceTree = "<group>"; };
+		047625651D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Alt Regular.otf"; sourceTree = "<group>"; };
+		047625661D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Black.otf"; sourceTree = "<group>"; };
+		047625671D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Bold.otf"; sourceTree = "<group>"; };
 		049F70631D335DDB007BD6A7 /* clittr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = clittr.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		049F70661D335DDB007BD6A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		049F70681D335DDB007BD6A7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -108,10 +124,18 @@
 			children = (
 				0476255B1D34ABC800C3EF6D /* GoogleService-Info.plist */,
 				049F70661D335DDB007BD6A7 /* AppDelegate.swift */,
+				0476255D1D3566DA00C3EF6D /* UIFeedViewCell.swift */,
 				049F70681D335DDB007BD6A7 /* ViewController.swift */,
 				049F706A1D335DDB007BD6A7 /* Main.storyboard */,
 				049F706D1D335DDB007BD6A7 /* Assets.xcassets */,
 				049F706F1D335DDB007BD6A7 /* LaunchScreen.storyboard */,
+				0476255F1D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Black.otf */,
+				047625601D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Bold.otf */,
+				047625631D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Extrabold.otf */,
+				047625641D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Light.otf */,
+				047625651D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Regular.otf */,
+				047625661D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Black.otf */,
+				047625671D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Bold.otf */,
 				049F70721D335DDB007BD6A7 /* Info.plist */,
 			);
 			path = clittr;
@@ -259,7 +283,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0476256F1D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Black.otf in Resources */,
 				049F70711D335DDB007BD6A7 /* LaunchScreen.storyboard in Resources */,
+				0476256D1D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Light.otf in Resources */,
+				047625681D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Black.otf in Resources */,
+				0476256E1D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Regular.otf in Resources */,
+				0476256C1D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Extrabold.otf in Resources */,
+				047625701D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Bold.otf in Resources */,
+				047625691D3B4DE300C3EF6D /* Mark Simonson - Proxima Nova Alt Bold.otf in Resources */,
 				0476255C1D34ABC800C3EF6D /* GoogleService-Info.plist in Resources */,
 				049F706E1D335DDB007BD6A7 /* Assets.xcassets in Resources */,
 				049F706C1D335DDB007BD6A7 /* Main.storyboard in Resources */,
@@ -337,6 +368,7 @@
 			files = (
 				049F70691D335DDB007BD6A7 /* ViewController.swift in Sources */,
 				049F70671D335DDB007BD6A7 /* AppDelegate.swift in Sources */,
+				0476255E1D3566DA00C3EF6D /* UIFeedViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
